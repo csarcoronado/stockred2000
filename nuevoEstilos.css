@@ -1,0 +1,21 @@
+/* #exampleModalii {
+    position: fixed;
+    top: 990px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+.colorblue{
+    color: white;
+    background-color: #2f5e89;
+}
+.colorgray{
+    background-color: rgba(219, 219, 219, 0.733);
+}
+.x{
+    font-size: 25px;
+    color: white;
+}
+.mar{
+    margin: 10px;
+    font-size: 20px;
+}
